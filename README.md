@@ -6,7 +6,7 @@ X-ray 보안 검색 장비(**AIXAC.RX.SW.SB**) 자동 업데이트용 **Velopack
 
 | 저장소 | 가시성 | 용도 |
 |---|---|---|
-| [iriss-sw-team/AIXAC.RX.SW.SB](https://github.com/airiss-sw-team/AIXAC.RX.SW.SB) | 🔒 Private | 소스코드 (개발) |
+| [`airiss-sw-team/AIXAC.RX.SW.SB`](https://github.com/airiss-sw-team/AIXAC.RX.SW.SB) | 🔒 Private | 소스코드 (개발) |
 | **`airiss-management/AIXAC.RX.SW.SB-releases`** (여기) | 🌐 Public | 릴리즈 바이너리 (배포) |
 
 장비는 이 저장소의 **Releases** 페이지만 조회합니다. 인증 불필요(익명).
